@@ -1,4 +1,4 @@
-# NIMS PLIM 1st Competition Solution
+# NIMS PLIM 1st Competition - 2nd Positioning Solution
 
 ---
 
